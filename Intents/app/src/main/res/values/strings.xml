@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="fact">"It's impossible for us to imagine colors we've never seen befor."</string>
+    <string name="next">Click this for fun fact</string>
+</resources>
